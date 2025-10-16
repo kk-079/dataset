@@ -1,2 +1,2 @@
 # dataset
-it used for LoRa Link Path Loss
+it is used for LoRa Link Path Loss estimation
