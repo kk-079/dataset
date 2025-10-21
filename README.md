@@ -4,12 +4,12 @@
 The data is collected on the campus of Shenzhen University, Shenzhen, Guangdong, China. G1, G2, G3, G4, and G5 are five gateways, which collect RSSI and SNR of packets transmitted from a series of devices.
 
 
-Gateway Location (defined by its longitude, latitude, altitude):
-G1 (Roof, Science and Technology Building of Shenzhen University): 
-G2 (2nd Floor, Science and Technology Building of Shenzhen University):
-G3 (Roof, Zhili Building):
-G4 (Ground Floor, Zhili Building):
-G5 (Roof, Ziweizhai Building): 
+Gateway Location (defined by its longitude, latitude, altitude):<br>
+G1 (Roof, Science and Technology Building of Shenzhen University): <br>
+G2 (2nd Floor, Science and Technology Building of Shenzhen University):<br>
+G3 (Roof, Zhili Building):<br>
+G4 (Ground Floor, Zhili Building):<br>
+G5 (Roof, Ziweizhai Building): <br>
 
 
 CSV file information: RSSI, SNR, longitude, latitude, and altitude.<br>
