@@ -14,5 +14,6 @@ G5 (Roof, Ziweizhai Building): (158, 267, 16)<br>
 
 CSV file information: RSSI, SNR, longitude, latitude, and altitude.<br>
 RSSI and SNR can be used to calculate the "Expected Signal Power (ESP)" metric defined by LoRa.<br>
+The formula for calculating ESP is: ESP = RSSI + SNR - 10log10(1 + 10**0.1SNR).<br>
 Longitude, Latitude can be mapped to pixels on the image of the study area.<br>
 Height can be used as auxiliary information to input into the deep learning model to better learn link characteristics.<br>
